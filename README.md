@@ -1,4 +1,7 @@
-## Hi there 👋
+## Olá, sou Thiago, estudante de Ciência da Computação pela UFPB
+![Thiago-CRF's Stats](https://github-readme-stats.vercel.app/api?username=Thiago-CRF&theme=nord&show_icons=true&hide_border=true&count_private=true)
+![Thiago-CRF's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-CRF&theme=nord&show_icons=true&hide_border=true&layout=compact)
+
 
 <!--
 **Thiago-CRF/Thiago-CRF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
