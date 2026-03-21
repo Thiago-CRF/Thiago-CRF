@@ -1,6 +1,6 @@
 ## Olá, sou Thiago, estudante de Ciência da Computação pela UFPB
 ![Thiago-CRF's Stats](https://github-readme-stats.vercel.app/api?username=Thiago-CRF&theme=nord&show_icons=true&hide_border=true&count_private=true&hide_rank=true&layout=compact)
-![Thiago-CRF's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-CRF&theme=nord&show_icons=true&hide_border=true&layout=compact)
+![Thiago-CRF's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-CRF&theme=nord&show_icons=true&hide_border=true)
 
 
 <!--
