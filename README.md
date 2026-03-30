@@ -1,7 +1,7 @@
 ## Olá, sou Thiago, estudante de Ciência da Computação pela UFPB
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago-CRF&theme=nord&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-CRF&theme=nord&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Thiago-CRF&amp;theme=nord&amp;hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-CRF&amp;theme=nord&amp;layout=compact&amp;hide_border=true&amp;langs_count=6&amp;card_width=320" />
 </p>
 
 
